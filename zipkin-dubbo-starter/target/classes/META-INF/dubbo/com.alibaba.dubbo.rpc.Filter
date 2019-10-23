@@ -1,2 +1,0 @@
-traceConsumerFilter=com.mideadc.smart.life.zipkin.filter.dubbo.TraceConsumerFilter
-traceProviderFilter=com.mideadc.smart.life.zipkin.filter.dubbo.TraceProviderFilter
